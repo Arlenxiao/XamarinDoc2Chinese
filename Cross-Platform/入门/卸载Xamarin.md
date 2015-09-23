@@ -1,1 +1,1 @@
-<a href="http://developer.xamarin.com/guides/cross-platform/getting_started/installation/uninstalling_xamarin/">ฒฮฟผธราณรๆ</a>
+๏ปฟ<a href="http://developer.xamarin.com/guides/cross-platform/getting_started/installation/uninstalling_xamarin/">ๅ่€่ฏฅ้กต้ข</a>

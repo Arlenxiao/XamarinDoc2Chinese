@@ -1,1 +1,1 @@
-<a href="http://developer.xamarin.com/guides/cross-platform/getting_started/installation/firewall/">ี๋ถิธราณรๆ</a>
+๏ปฟ<a href="http://developer.xamarin.com/guides/cross-platform/getting_started/installation/firewall/">้’ๅฏน่ฏฅ้กต้ข</a>
